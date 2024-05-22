@@ -264,7 +264,7 @@ int main()
             report(test_fib(v.fib), v.name);
     }
 
-    cout << "done.\nTesting binary search variants:\n";// գծային որոնման ստուգում
+    cout << "done.\nTesting binary search variants:\n";// երկուական որոնման ստուգում
     {
         const struct {
             bsl_variant bsl;
